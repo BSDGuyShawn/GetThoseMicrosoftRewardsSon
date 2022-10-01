@@ -3,6 +3,8 @@ Drop these files into the same directory.
 
 These run from Git Bash on Windows 11 and they work well. WSL should work too.
 
+I don't recall where I found the list of words. I will add attribution if the source is found.
+
 ## Prerequisites
 Your Edge browser should automatically sign in to your microsoft account.
 
